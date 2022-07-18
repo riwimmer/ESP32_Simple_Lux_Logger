@@ -13,7 +13,8 @@
   •	and the <a href="https://www.amazon.com/gp/product/B082KBF7MM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">breadboard</a><br>
   
 <h3> Design Hardware </h3>
-  •	as the VEML7700 connects via I2C only 4 wires are really needed to hook up the sensor, that’s it. Schematic
+  •	as the VEML7700 connects via I2C only 4 wires are really needed to hook up the sensor, that’s it. <br>
+    <a href="https://github.com/riwimmer/ESP32_Simple_Lux_Logger/blob/master/Schematic/Simple_Lux_Logger.pdf">Schematic</a>
 
 <h3> Design Software </h3>
   To simplify the whole design and stick to my quick turn around for data logging solution, I split the design aspect into 3 work flows
