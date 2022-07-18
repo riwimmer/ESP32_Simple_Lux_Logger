@@ -1,6 +1,6 @@
 <h2> Simple Lux Logger</h2>
 
-  This project ideas came about when my daughter kept mentioning about her room is so much colder than mine, despite our home is located in the warm California climate. I was experimenting with ESP32 for some time and though why not do a simple datalog project.
+  This project idea came about when my daughter kept mentioning about her room is so much colder than mine, despite our home is located in the warm California climate. I was experimenting with ESP32 for some time and though why not do a simple datalog project.
 
 
 <h3> Requirement </h3>
